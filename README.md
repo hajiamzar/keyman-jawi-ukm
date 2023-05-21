@@ -2,7 +2,7 @@
 
 ![jawi_ukm](jawi_ukm.png)
 
-Menggunakan [Keyman Engine](https://keyman.com/engine/) untuk mendapatkan susun atur susun atur papan kekunci Bahasa Melayu (Jawi UKM).
+Menggunakan [Keyman Engine](https://keyman.com/engine/) untuk mendapatkan susun atur papan kekunci Bahasa Melayu (Jawi UKM).
 
 ## Platform Yang Disokong 
 
