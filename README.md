@@ -12,7 +12,7 @@ Windows, MacOS, Linux.
 
 **1. Pasang Keyman Engine dahulu.**
 
-Muat turun Keyman Engine untuk sistem operasi anda pada pautan berkenaan https://keyman.com/downloads/. Kemudian pasang. Untuk linux anda perlu menggunakkan IBus sebagai input method anda. Boleh lihat wiki berkenaan https://wiki.archlinux.org/title/IBus.
+Muat turun Keyman Engine untuk sistem operasi anda pada pautan berkenaan https://keyman.com/downloads/. Kemudian pasang. Untuk Linux anda perlu menggunakkan IBus sebagai input method anda. Boleh lihat wiki berkenaan https://wiki.archlinux.org/title/IBus.
 
 **2. Muat turun fail zip pada halaman Releases.**
 
